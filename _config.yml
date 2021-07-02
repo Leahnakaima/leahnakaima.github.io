@@ -18,7 +18,7 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
+    - icon: fa-instagram
       link: "https://www.instagram.com/leahnakaima/?hl=en"
     - icon: fa-twitter
       link: "https://twitter.com/tmjam3011"
