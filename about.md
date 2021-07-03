@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p>
-I am currently a Sr. Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a>. I consider myself as a full-stack developer and equally excited working on both ends. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
+  I am a Master in Public Policy graduate from <a href="https://www.harvard.edu/" target="_blank">harvard.edu</a>, driven by my passion for technology policy, pharmaceutical policy, market access research, health equity, and increased medicine innovation and access. I bring expertise in public policy, global health, business and non-profit consulting, project management, and market access and pharmaceutical policy research. I am currently looking for jobs to jumpstart her career. 
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
